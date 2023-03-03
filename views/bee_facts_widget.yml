@@ -1,0 +1,6 @@
+type: scrollbox
+widget_id: bee_facts-widget
+api_url: /module/bees/get_bee_fact
+listing_link: /show/report/bees/bees_report
+i18n_title: bees.bee_facts
+search_key: fact

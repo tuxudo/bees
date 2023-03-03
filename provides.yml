@@ -1,0 +1,13 @@
+client_tabs:
+    bees:
+        view: bees_tab
+        i18n: bees.reporttitle
+widgets:
+    bees:
+        view: bees_widget
+    bee_facts:
+        view: bee_facts_widget
+reports:
+    bees_report:
+        view: bees_report
+        i18n: bees.reporttitle
